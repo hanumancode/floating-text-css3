@@ -42,7 +42,7 @@ h1 {
         transform: translateY(0px) rotate(-10deg);
     }
     75% {
-        transform: translateY(150px) rotate(10deg);
+        transform: translateY(100px) rotate(10deg);
     }
     100% {
         transform: translateY(0px) rotate(-10deg);
